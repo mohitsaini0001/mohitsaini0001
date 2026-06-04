@@ -3,11 +3,9 @@
 
 Email Me 👉 ✉️ **mr.mohitsaini1913@gmail.com** For Collaboration/Project or Anything Else.
 
-- 🔭 **I’m currently working on:** Currently working on MERN Stack and creative frontend projects
-- 🌱 **I’m currently learning:** Currently learning Advanced Backend Development, APIs, and Data Analytics
-- 👯 **I’m looking to collaborate on:** Looking to collaborate on Web Development & Open Source Projects
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Ask me about React.js, JavaScript, Node.js, MongoDB, Express.js, and Frontend Development
+- 🔭 **I’m currently working on:** On MERN Stack and creative frontend projects
+- 🌱 **I’m currently learning:** Advanced Backend Development, APIs, and Data Analytics
+- 👯 **I’m looking to collaborate on:** Web Development & Open Source Projects
 - 📫 **How to reach me:** mr.mohitsaini1913@gmail.com
 - 😄 **Pronouns:** Mohit 
 - ⚡ **Fun fact:** I love building futuristic and interactive web interfaces
